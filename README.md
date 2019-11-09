@@ -23,9 +23,10 @@ Sample data is from phase 3 of the 1000 Genomes Project. Phenotype data is simul
 Citation: “A global reference for human genetic variation” Nature 526 68-74 2015
 
 ## Software
-1. PLINK 1.9: Chang CC, Chow CC, Tellier LCAM, Vattikuti S, Purcell SM, Lee JJ (2015) Second-generation PLINK: rising to the challenge of larger and richer datasets. GigaScience, 4.
-2. ADMIXTURE: D.H. Alexander, J. Novembre, and K. Lange. Fast model-based estimation of ancestry in unrelated individuals. Genome Research, 19:1655–1664, 2009.
-3. RFMix: Maples BK, Gravel S, Kenny EE, Bustamante CD. RFMix: a discriminative modeling approach for rapid and robust local-ancestry inference. Am J Hum Genet. 2013;93(2):278–288.
+1. PLINK 1.9: Chang CC, Chow CC, Tellier LCAM, Vattikuti S, Purcell SM, Lee JJ (2015) Second-generation PLINK: rising to the challenge of larger and richer datasets. GigaScience, 4. URL: https://www.cog-genomics.org/plink2/
+2. ADMIXTURE: D.H. Alexander, J. Novembre, and K. Lange. Fast model-based estimation of ancestry in unrelated individuals. Genome Research, 19:1655–1664, 2009. URL: http://software.genetics.ucla.edu/admixture/
+3. RFMix: Maples BK, Gravel S, Kenny EE, Bustamante CD. RFMix: a discriminative modeling approach for rapid and robust local-ancestry inference. Am J Hum Genet. 2013;93(2):278–288. URL https://github.com/slowkoni/rfmix
 4. R:  R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
-5. GCTA: Yang J, Lee SH, Goddard ME, Visscher PM. GCTA: a tool for genome-wide complex trait analysis. Am J Hum Genet. 2011;88(1):76–82. doi:10.1016/j.ajhg.2010.11.011
+5. GCTA: Yang J, Lee SH, Goddard ME, Visscher PM. GCTA: a tool for genome-wide complex trait analysis. Am J Hum Genet. 2011;88(1):76–82. URL https://cnsgenomics.com/software/gcta/#Overview
+6. KING: Manichaikul A, Mychaleckyj JC, Rich SS, Daly K, Sale M, Chen WM (2010) Robust relationship inference in genome-wide association studies. Bioinformatics 26(22):2867-2873. URL http://people.virginia.edu/~wc9c/KING/
 
