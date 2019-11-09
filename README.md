@@ -1,4 +1,4 @@
-# Leveraging Ancestry in Statistical Genetics
+# Leveraging Ancestry in Genetic Studies
 ## Knowing who is in your dataset
 _Principal component analysis (PCA) and relationship inference using IBD or kinsihp coefficients are common practice. As an alternative, estimating ancestry proportions, a quantitative trait, can be more informative._
 1. The script **run_admix.sh** runs ADMIXTURE; it does 10 replicates for each provided K. 
