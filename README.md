@@ -7,7 +7,7 @@ _Principal component analysis (PCA) and relationship inference using IBD or kins
 4. The script **admixture_workflow.sh** simply outlines the above procedure. 
 
 ## Adxmiture Mapping
-_If there is evidence for differential disease risk by population, AM can be used to associate local ancestry segments with the disease._
+_If there is evidence for differential disease risk by population, AM can be used to test if there is a genetic component (i.e. GXE) to this differential risk._
 1. The script **admix_mapping.sh** performs entire admix mapping procedure per chromosome. Provide global ancestry files (ADMIXTURE or RFMix output), local ancestry files (RFMix), KING unrelated output, and phenotype file.
 2. The script **parse.local_ancestry.sh** parses the output of RFMix into separate files per reference ancestry. 
 3. The script **admix_mapping.R** performs a likelihood ratio test (LRT) to determine if the inclusion of local ancestry segements improve the model. 
