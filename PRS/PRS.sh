@@ -16,7 +16,7 @@ geno=1KG.sim_data.thinned
 ##PARSE FILES###
 
 ##hyperparamter selection###
-if [ $2 == "TRUE" ];
+if [ $2 = "TRUE" ];
 then
 
 	#hyper paramters
