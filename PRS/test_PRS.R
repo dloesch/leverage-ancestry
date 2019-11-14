@@ -113,7 +113,8 @@ print(cv_error_10[2])
 sink()
 
 ###10 fold CV #####
-
+#Uses the cvTools package. 
+#Code was adapted from examples for using the package that were floating around the World Wide Web
 
 k <- 10 #the number of folds
 
